@@ -63,14 +63,6 @@ interface SocialLink {
 }
 ```
 
-## 🎯 Available Templates
-
-### 1. Minimalist Profile
-A sleek, distraction-free template emphasizing clarity and simplicity.
-
-
-*More templates are in development! Contribute your own to expand the collection.*
-
 ## 🛠️ Getting Started
 
 ### Prerequisites
