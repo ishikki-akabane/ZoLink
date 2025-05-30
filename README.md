@@ -14,7 +14,7 @@
 
 Zolink Templates is an open-source library of responsive, customizable profile page components built with **Next.js**, **TypeScript**, and **Tailwind CSS**. Our templates empower developers and users to create visually stunning, accessible, and performant profile pages for the [Zolink platform](https://zolink.site). Whether you're showcasing your portfolio, social links, or personal brand, Zolink Templates makes it effortless and elegant.
 
-**🌐 Live Demo**: [zolink.site/templates](https://zolink.site/templates)
+**🌐 Live Demo**: [zolink.site/templates](https://zolink.site)
 
 ## 🚀 Features
 
