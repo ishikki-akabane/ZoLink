@@ -18,7 +18,6 @@ Zolink Templates is an open-source collection of beautiful, responsive profile p
 
 - **🎨 Modern Design** - Clean, professional templates following current design trends
 - **📱 Fully Responsive** - Perfect on desktop, tablet, and mobile devices
-- **🌙 Dark Mode Support** - Built-in light/dark theme switching
 - **⚡ TypeScript Ready** - Full type safety and IntelliSense support
 - **🎯 Customizable** - Easy to modify colors, layouts, and components
 - **♿ Accessible** - WCAG compliant with proper ARIA labels
