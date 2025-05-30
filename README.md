@@ -10,7 +10,7 @@
 
 ## ✨ What is Zolink Templates?
 
-Zolink Templates is an open-source collection of beautiful, responsive profile page components built with React, TypeScript, and Tailwind CSS. Each template is designed to showcase personal profiles, social links, and content in unique, visually appealing ways.
+Zolink Templates is an open-source collection of beautiful, responsive profile page components built with Nextjs, TypeScript, and Tailwind CSS. Each template is designed to showcase personal profiles, social links, and content in unique, visually appealing ways.
 
 **🌐 Live Demo:** [zolink.site](https://zolink.site)
 
@@ -76,39 +76,10 @@ A clean, modern template focusing on simplicity and readability.
 ### Prerequisites
 
 - Node.js 18+ 
-- React 18+
+- Nextjs
 - TypeScript
 - Tailwind CSS
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/ishikki-akabane/zolink.git
-   cd zolink
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   # or
-   yarn install
-   # or
-   pnpm install
-   ```
-
-3. **Use a template in your project**
-   ```tsx
-   import { MinimalistProfile } from '@/templates/MinimalistProfile'
-   
-   function App() {
-     const profileData = {
-       // Your profile data here
-     }
-     
-     return <MinimalistProfile profile={profileData} />
-   }
-   ```
 
 ## 🤝 Contributing
 
@@ -117,14 +88,8 @@ We welcome contributions from developers of all skill levels! Whether you're fix
 ### How to Contribute
 
 1. **Fork the repository**
-   ```bash
-   git fork https://github.com/ishikki-akabane/zolink.git
-   ```
 
 2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-template
-   ```
 
 3. **Create your template**
    - Follow our [Template Guidelines](#-template-guidelines)
