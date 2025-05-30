@@ -110,10 +110,9 @@ Organize your template in the following structure:
 templates/
 ├── YourTemplateName/
 │   ├── index.tsx              # Main template component
-│   ├── components/            # Reusable sub-components
-│   ├── types.ts               # TypeScript type definitions
-│   ├── README.md              # Template-specific documentation
-│   ├── preview.png            # Screenshot for showcase
+│   ├── preview.png            # Screenshot/images for showcase
+│   ├── README.md              # Optional: Template-specific documentation
+│   ├── components/            # Optional: Reusable sub-components
 │   └── styles/                # Optional: Custom CSS or Tailwind overrides
 ```
 
@@ -195,7 +194,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - **Website**: [zolink.site](https://zolink.site)
-- **Documentation**: [docs.zolink.site](https://docs.zolink.site)
 - **Developer**: [github.com/ishikki-akabane](https://github.com/ishikki-akabane)
 - **Issues**: [Report a bug or request a feature](https://github.com/ishikki-akabane/zolink/issues)
 
@@ -213,6 +211,6 @@ Need help? Have questions?
 
 **Crafted with ❤️ by the Zolink Community**
 
-[⭐ Star us on GitHub](https://github.com/ishikki-akabane/zolink) | [🚀 Try Zolink](https://zolink.site) | [📖 Explore the Docs](https://docs.zolink.site)
+[⭐ Star us on GitHub](https://github.com/ishikki-akabane/zolink) | [🚀 Try Zolink](https://zolink.site)
 
 </div>
